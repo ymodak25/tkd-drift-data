@@ -51,11 +51,13 @@ This repository is updated **weekly**. As volunteers provide new data, folders a
 
 ---
 
-## 🛠️ Data Standards
-All motion data is processed through the **TKD Drift Analyzer** engine. 
-* **Format:** CSV (Comma Separated Values).
-* **Storage:** Organized by date to track longitudinal progress of the study.
-* **Usage:** Exclusively for Taekwondo motion analysis and drift quantification.
+## � Changelog and Observations
+
+### Changelog
+- **2026-04-19**: Initial changelog setup. Repository contains data from sessions up to 04-15-2026.
+
+### Observations
+- **2026-04-19**: Today marks the day when we have officially collected 10 data points. A big thank you to all the volunteers, Choi's TKD and Master Jennifer for their unbridled support. After looking at the data we found out that despite the level of the student on an average the drift measured was 70-80 percent. It is also worthwhile to note that students were choosing their own three or four steps for the before and after datapoints. Interestingly in the last three data points, when asked explicitly to chose slightly harder steps, the accuracy fell by six to ten percent. We will continue to keep an eye on these trends as we go forward.
 
 ---
 *This repository is a part of the TKD Drift Analyzer Research Project. For inquiries regarding methodology or data access, please contact the project maintainers.*
